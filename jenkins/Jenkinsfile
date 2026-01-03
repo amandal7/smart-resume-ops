@@ -1,11 +1,33 @@
 pipeline {
   agent any
+
   stages {
-    stage('Test') {
+
+    stage('Checkout') {
       steps {
-        echo 'CI pipeline started'
+        echo 'Code checked out'
       }
     }
+
+    stage('Docker Build') {
+      steps {
+        sh '''
+          docker build -t resume-engine:latest docker/
+        '''
+      }
+    }
+
+    stage('Run Resume Engine') {
+      steps {
+        sh '''
+          docker run --rm \
+            -v $WORKSPACE/input:/app/input \
+            -v $WORKSPACE/output:/app/output \
+            resume-engine:latest
+        '''
+      }
+    }
+
   }
 }
 
