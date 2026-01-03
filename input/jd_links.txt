@@ -1,0 +1,98 @@
+Harris Global Business Services (GBS) logo
+Harris Global Business Services (GBS)
+Share
+Show more options
+Senior DevSecOpts Engineer
+India · Reposted 1 day ago · Over 100 people clicked apply
+Responses managed off LinkedIn
+ 
+ Remote
+Matches your job preferences, workplace type is Remote.
+
+ Full-time
+Matches your job preferences, job type is Full-time.
+
+Apply
+ 
+Save
+Save Senior DevSecOpts Engineer at Harris Global Business Services (GBS)
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Reactivate Premium: 50% Off
+
+
+
+Show match details
+
+Tailor my resume
+
+Help me stand out
+
+About the job
+Business Unit
+
+MEDHOST provides market-leading enterprise, departmental, and healthcare engagement solutions to healthcare facilities nationwide. Our integrated product portfolio includes intuitive, cloud-based clinical, financial, and operational solutions, including Your Care Everywhere®, a robust health and wellness consumer engagement platform.
+
+Job Summary
+
+The TechOps Engineer will serve as a skilled cloud engineer and architect that will handle all operations for highly visible multi-tenant applications for the Your Care Community platform.
+
+This candidate will use a combination of Dev and TechOps skills to support operations, re-engineer processes, and implement continuous delivery practices while being on the forefront of the latest technology and automation practices.
+
+Roles and Responsibilities
+
+Design and implement the best practices of CI/CD pipeline
+Design and implementation of Disaster recovery solution
+Monitor and manage cloud infrastructure
+Passionate about troubleshooting, debugging, and automation
+Will be required to work in a team environment with much collaboration
+May need to aggressively learn new skills to keep up with cutting edge technologies and evolving skill sets
+Create and update documentation as needed
+Respond to alerts and outages; participate in periodic 24x7 on-call schedule
+Provide top notch, responsive customer service to client
+
+Work Mode: Remote
+
+Shift Timings: 6:30pm to 3:30am IST
+
+Location: Remote-India
+
+What We Are Looking For
+
+(Mandatory Qualifications & Skills)
+
+5 to7 years of working experience of AWS cloud infrastructure.
+3 or more years’ experience in AWS
+3 or more years’ experience in Linux operations, bash, or systems engineer role
+Experience in a scripting and/or other development language a plus.
+AWS certification required
+
+(Preferred/Good-to-Have Skills)
+
+What Would Make You Stand Out: 
+
+Professional level experience with AWS and services related to infrastructure
+Experience with systems and IT operations, having a good knowledge of networking and performance
+Strong grasp of automation at many levels including infrastructure, build, configuration, testing, deployment
+Professional level experience with configuration management and Infrastructure as Code (IaC)
+Professional experience in designing High Level Architecture with ability to design for HA/DR
+Professional experience in wide variety of tool sets (eg. Terraform, Chef, Jenkins, TeamCity)
+Deep operational knowledge in both Windows and Linux environment (mostly Linux)
+Experience with clustering and containerization technologies
+Strong ability to communicate and collaborate with others and work in an Agile / Scrum environment
+
+Soft Skills/ Behavioral Skills
+
+Critical thinking,
+Proactive
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills.
+
+Benefits
+
+Annual Public Holidays as applicable
+30 days total leave per calendar year
+Mediclaim policy
+Lifestyle Rewards Program
+Group Term Life Insurance
+Gratuity
+...and more!

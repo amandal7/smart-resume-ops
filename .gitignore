@@ -1,4 +1,4 @@
 output/
-*.pdf
-*.docx
+#*.pdf
+#*.docx
 
